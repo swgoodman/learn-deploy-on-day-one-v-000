@@ -1,6 +1,10 @@
 /* GLOBAL STYLES
 ======================== */
 
+#spencer-g-card {
+  background-image: url("https://imgur.com/gallery/NwBfC");
+}
+
 *, *:before, *:after {
   box-sizing: border-box;
   /*border: 1px solid red;*/
